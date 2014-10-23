@@ -13,6 +13,8 @@
 		8FF4ADCE19F7258D0069C55F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8FF4ADCD19F7258D0069C55F /* Images.xcassets */; };
 		8FF4ADD119F7258D0069C55F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8FF4ADCF19F7258D0069C55F /* LaunchScreen.xib */; };
 		8FF4ADDD19F7258D0069C55F /* postcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF4ADDC19F7258D0069C55F /* postcardTests.swift */; };
+		8FF4ADE719F7273A0069C55F /* photo 1.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 8FF4ADE619F7273A0069C55F /* photo 1.JPG */; };
+		8FF4ADE919F72D540069C55F /* app3.png in Resources */ = {isa = PBXBuildFile; fileRef = 8FF4ADE819F72D540069C55F /* app3.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		8FF4ADD619F7258D0069C55F /* postcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = postcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8FF4ADDB19F7258D0069C55F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8FF4ADDC19F7258D0069C55F /* postcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = postcardTests.swift; sourceTree = "<group>"; };
+		8FF4ADE619F7273A0069C55F /* photo 1.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "photo 1.JPG"; sourceTree = "<group>"; };
+		8FF4ADE819F72D540069C55F /* app3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = app3.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +86,7 @@
 				8FF4ADCA19F7258D0069C55F /* Main.storyboard */,
 				8FF4ADCD19F7258D0069C55F /* Images.xcassets */,
 				8FF4ADCF19F7258D0069C55F /* LaunchScreen.xib */,
+				8FF4ADE619F7273A0069C55F /* photo 1.JPG */,
 				8FF4ADC419F7258D0069C55F /* Supporting Files */,
 			);
 			path = postcard;
@@ -90,6 +95,7 @@
 		8FF4ADC419F7258D0069C55F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				8FF4ADE819F72D540069C55F /* app3.png */,
 				8FF4ADC519F7258D0069C55F /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,6 +199,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				8FF4ADCC19F7258D0069C55F /* Main.storyboard in Resources */,
+				8FF4ADE919F72D540069C55F /* app3.png in Resources */,
+				8FF4ADE719F7273A0069C55F /* photo 1.JPG in Resources */,
 				8FF4ADD119F7258D0069C55F /* LaunchScreen.xib in Resources */,
 				8FF4ADCE19F7258D0069C55F /* Images.xcassets in Resources */,
 			);
