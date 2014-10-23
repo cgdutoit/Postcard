@@ -27,6 +27,7 @@ class ViewController: UIViewController {
 
     @IBAction func sendMaiButtonPressed(sender: UIButton) {
         // Comment added after first GIT
+        // thru xcode
         messageLabel.hidden = false;
         messageLabel.text = enterNameTextfield.text;
         enterNameTextfield.resignFirstResponder()
